@@ -17,3 +17,5 @@ display_board
 
 puts "Welcome to Tic Tac Toe!"
 board = [" "," "," "," "," "," "," "," "," "]
+display_board(board)
+
