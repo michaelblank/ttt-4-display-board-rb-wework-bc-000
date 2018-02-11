@@ -3,7 +3,7 @@
 
 puts "Welcome to Tic Tac Toe!"
 
-board = ["X","X","X"," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board)
   
